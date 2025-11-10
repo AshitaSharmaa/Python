@@ -1,5 +1,6 @@
-# Track the product price and when its price gets lower than the specified price, it will send me an email which
-include the title of the product, the current price and a link to buy the product.
+# Track the product price and when its price gets lower than the specified price, it will send an email
+
+The email includes the title of the product, the current price and a link to buy the product.
 
 Here I used Web scraping using beautiful soap to get hold of the price.
 Using Python programming, the comparioson has been made to check the price if it gets lower than $100.
